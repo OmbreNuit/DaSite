@@ -1,0 +1,21 @@
+body {
+    background-color: #DFD3C3;
+}
+hr {
+    /* border-style: dotted none none; */
+    border-style: solid;
+    height: 0px;
+    border-width: 2px;
+    border-color: #D0B8A8;
+    /* // background-color:##F4C7AB;;  */
+    width: 100%;
+} 
+h3, th {
+    color: #85586F;
+}
+th {
+    font-size: 20px
+}
+td {
+    padding-left: 15px;
+}
